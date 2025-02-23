@@ -1,4 +1,4 @@
-This is a demostrator for https://github.com/golang/go/issues/68355.
+This is a demostrator for https://github.com/golang/go/issues/69625.
 
 It uses jfreymuth/pulse and my own patrix and digimodes libraries to play a sentece in
 morse code. The `time` package is not used directly, but maybe somewhere in the libraries.
